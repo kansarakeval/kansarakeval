@@ -22,7 +22,7 @@ I’m a passionate developer from India, specializing in Flutter and Android dev
 
 ### 💻 Skills
 - **Programming Languages:** C, C++, Java, Kotlin, Dart, PHP
-- **Frameworks & Tools:** Flutter, Android Studio, VSCode <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- **Frameworks & Tools:** Flutter, Android Studio, VSCode <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/ce05d2b0-e8eb-4475-a70d-250d360b6509">
 - **Backend & APIs:** Firebase, RESTful APIs
 - **Design:** Figma
   
