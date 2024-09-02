@@ -25,6 +25,7 @@ I’m a passionate developer from India, specializing in Flutter and Android dev
 - **Frameworks & Tools:** Flutter, Android Studio, VSCode
 - **Backend & APIs:** Firebase, RESTful APIs
 - **Design:** Figma
+  
 ![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
