@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Keval Kanasara! <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/7c1472d1-e067-4cfe-8e3d-7ddd27ab698c">
+# 👋 Hi, I'm Keval Kanasara! <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/21bc3dbe-25b4-4101-a39b-94e722cd707c">
+
+
 
 
 
