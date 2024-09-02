@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Keval Kanasara!
+# 👋 Hi, I'm Keval Kanasara! <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/7c1472d1-e067-4cfe-8e3d-7ddd27ab698c">
+
+
 
 ### 🌍 About Me
 I’m a passionate developer from India, specializing in Flutter and Android development. With a deep love for coding and problem-solving, I’ve worked on various projects that showcase my skills in building powerful, user-friendly mobile applications.
