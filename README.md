@@ -22,7 +22,7 @@ I’m a passionate developer from India, specializing in Flutter and Android dev
 
 ### 💻 Skills
 - **Programming Languages:** C, C++, Java, Kotlin, Dart, PHP
-- **Frameworks & Tools:** Flutter, Android Studio, VSCode
+- **Frameworks & Tools:** Flutter, Android Studio, VSCode <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 - **Backend & APIs:** Firebase, RESTful APIs
 - **Design:** Figma
   
@@ -39,7 +39,6 @@ Feel free to reach out if you want to collaborate on a project, need help with F
 
 **Keval Kanasara**
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+
 
 
