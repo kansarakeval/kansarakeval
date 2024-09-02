@@ -39,3 +39,11 @@ Feel free to reach out if you want to collaborate on a project, need help with F
 
 **Keval Kanasara**
 
+from PIL import Image, ImageSequence
+
+# Load images
+images = [Image.open(image) for image in ['frame1.png', 'frame2.png', 'frame3.png']]
+
+# Save as GIF
+images[0].save('output.gif', save_all=True, append_images=images[1:], duration=500, loop=0)
+
